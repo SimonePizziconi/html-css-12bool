@@ -1,10 +1,17 @@
 .box{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    padding: 10px;
     /* DEBUG */
     background-color: #006cfa;
     min-height: 100px;
+    border: 1px solid #fff;
+    color: #fff;
+    text-align: center;
+}
+
+.green-box{
+    /* DEBUG */
+    min-height: 80px;
+    background-color: #00e165;
     border: 1px solid #fff;
     color: #fff;
 }
